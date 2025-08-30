@@ -23,8 +23,8 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- Twitter -->
-[twitter-shield]:https://img.shields.io/twitter/follow/JADiPasquo?style=social
-[twitter-url]:https://twitter.com/JADiPasquo
+[twitter-shield]:https://img.shields.io/twitter/follow/ivan_maccari0?style=social
+[twitter-url]:https://x.com/ivan_maccari0
 <!-- LinkedIn -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
-[linkedin-url]: https://linkedin.com/in/juan-agustin-di-pasquo-jad
+[linkedin-url]: https://www.linkedin.com/in/iv%C3%A1n-maccario-0371242b9/
